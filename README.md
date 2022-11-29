@@ -1,7 +1,7 @@
 # Hunter Mayer Homework Challenge 13
 
 ## Description
-Add here
+In this assignment I used my sql and sequilize to create a backend for an ecommerce website. 
 
 ### Acceptance Criteria
 GIVEN a functional Express.js API
@@ -28,11 +28,11 @@ THEN I am able to successfully create, update, and delete data in my database
 
 ### Video Example
 
-add link here
+Recording: https://drive.google.com/file/d/1ZvOKxCAZvg9VAx-DSwXSOHtNkfWNbL8l/view?usp=sharing
 
 ### Deployed Repo
 
-Github Repo: add here
+Github Repo: https://github.com/Hunter-Mayer/homework-13
 
 ## Credits
 
